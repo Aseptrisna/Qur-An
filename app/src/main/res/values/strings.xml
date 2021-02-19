@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Al-Qur\'an</string>
+    <string name="al_qur_an">AL-QUR\'AN</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="jumlah_ayat">Jumlah Ayat</string>
+    <string name="nama">Nama</string>
+    <string name="nomor">Nomor</string>
+    <string name="daftar_surat">Daftar Surat</string>
+    <string name="tampilkan_keterangan">Tampilkan Keterangan</string>
+    <string name="basmallah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</string>
+</resources>
